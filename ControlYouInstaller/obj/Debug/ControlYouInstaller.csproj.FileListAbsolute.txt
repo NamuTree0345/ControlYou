@@ -1,0 +1,10 @@
+D:\source\ControlYou\ControlYou\ControlYouInstaller\bin\Debug\ControlYouInstaller.exe.config
+D:\source\ControlYou\ControlYou\ControlYouInstaller\bin\Debug\ControlYouInstaller.exe
+D:\source\ControlYou\ControlYou\ControlYouInstaller\bin\Debug\ControlYouInstaller.pdb
+D:\source\ControlYou\ControlYou\ControlYouInstaller\obj\Debug\ControlYouInstaller.Form1.resources
+D:\source\ControlYou\ControlYou\ControlYouInstaller\obj\Debug\ControlYouInstaller.Properties.Resources.resources
+D:\source\ControlYou\ControlYou\ControlYouInstaller\obj\Debug\ControlYouInstaller.csproj.GenerateResource.cache
+D:\source\ControlYou\ControlYou\ControlYouInstaller\obj\Debug\ControlYouInstaller.csproj.CoreCompileInputs.cache
+D:\source\ControlYou\ControlYou\ControlYouInstaller\obj\Debug\ControlYouInstaller.exe
+D:\source\ControlYou\ControlYou\ControlYouInstaller\obj\Debug\ControlYouInstaller.pdb
+D:\source\ControlYou\ControlYou\ControlYouInstaller\obj\Debug\ControlYouInstaller.csprojAssemblyReference.cache

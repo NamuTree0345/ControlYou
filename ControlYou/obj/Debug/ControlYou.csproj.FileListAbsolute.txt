@@ -1,0 +1,11 @@
+D:\source\ControlYou\ControlYou\ControlYou\bin\Debug\ControlYou.exe.config
+D:\source\ControlYou\ControlYou\ControlYou\bin\Debug\ControlYou.exe
+D:\source\ControlYou\ControlYou\ControlYou\bin\Debug\ControlYou.pdb
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.csprojAssemblyReference.cache
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.Form1.resources
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.Properties.Resources.resources
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.csproj.GenerateResource.cache
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.csproj.CoreCompileInputs.cache
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.exe
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.pdb
+D:\source\ControlYou\ControlYou\ControlYou\obj\Debug\ControlYou.Form2.resources
